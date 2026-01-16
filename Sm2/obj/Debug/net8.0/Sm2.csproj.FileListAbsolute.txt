@@ -1,0 +1,6 @@
+C:\Users\II Novbe\source\repos\Sm2\Sm2\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\II Novbe\source\repos\Sm2\Sm2\obj\Debug\net8.0\Sm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\Sm2\Sm2\obj\Debug\net8.0\Sm2.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\Sm2\Sm2\obj\Debug\net8.0\Sm2.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\Sm2\Sm2\obj\Debug\net8.0\Sm2.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\Sm2\Sm2\obj\Debug\net8.0\Sm2.MvcApplicationPartsAssemblyInfo.cache
