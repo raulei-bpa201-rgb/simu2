@@ -1,0 +1,10 @@
+﻿﻿@using Sm2.Models
+@model Member
+<div class="card" style="width: 18rem;">
+    <img src="@Model.Image" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <h5 class="card-title">@Model.Title</h5>
+        <a asp-action="index" asp-controller="member" class="btn btn-primary">Back</a>
+    </div>
+</div>
